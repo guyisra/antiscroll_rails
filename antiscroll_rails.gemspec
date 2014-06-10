@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AntiscrollRails::VERSION
   spec.authors       = ["Guy Israeli"]
   spec.email         = ["guy.israeli@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Antiscroll.js for Rails}
+  spec.description   = %q{creating OS X Lion type scrollbars - Antiscroll, for Rails!}
   spec.homepage      = ""
   spec.license       = "MIT"
 
